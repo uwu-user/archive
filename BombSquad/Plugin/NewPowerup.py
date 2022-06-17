@@ -320,4 +320,4 @@ class NewPowerupBox(ba.Actor):
 class UwUuser(ba.Plugin):
           ba.internal.get_default_powerup_distribution = new_default_powerup_distribution
           powerupbox.PowerupBox = NewPowerupBox
-          powerupbox.PowerupBoxFactory = NewPowerupBoxFactorywerupBox
+          powerupbox.PowerupBoxFactory = NewPowerupBoxFactory
